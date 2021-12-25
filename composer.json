@@ -6,6 +6,7 @@
             "email": "ismael.saindou@icloud.com"
         }
     ],
+    "description": "Load and parse VTT files.",
     "require": {
         "php": ">= 8.0"
     },
