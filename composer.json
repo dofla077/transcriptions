@@ -1,0 +1,21 @@
+{
+    "name": "dofla/transcriptions",
+    "authors": [
+        {
+            "name": "ismael saindou",
+            "email": "ismael.saindou@icloud.com"
+        }
+    ],
+    "description": "Load and parse VTT files.",
+    "require": {
+        "php": ">= 8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dofla\\Transcriptions\\": "src/"
+        }
+    }
+}
